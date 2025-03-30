@@ -1,0 +1,33 @@
+.ai-thinking-container {
+  position: relative;
+  width: 100%;
+  min-height: 24px;
+}
+
+.ai-thinking {
+  position: absolute;
+  top: -24px;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.ai-thinking-text {
+  color: #28a745; /* Green color */
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.ai-content {
+  width: 100%;
+}
+
+.fade-in {
+  animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
