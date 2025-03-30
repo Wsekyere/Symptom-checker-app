@@ -1,0 +1,75 @@
+.results-container {
+  padding: 20px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.results-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.conditions-list {
+  margin-bottom: 20px;
+}
+
+.condition-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.condition-name {
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.condition-probability {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #0c5f96;
+}
+
+.fade-in {
+  opacity: 0;
+  animation: fadeIn 0.5s ease-in forwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-out {
+  animation: fadeOut 0.5s ease-out forwards;
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.disclaimer {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.medication-advice-button,
+.restart-button {
+  margin: 10px;
+  transition: opacity 0.3s ease;
+}
