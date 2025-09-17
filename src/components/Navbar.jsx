@@ -9,8 +9,8 @@ function Navbar() {
       <div className="navbar-logo">
         <img src={logo} alt="logo" />
         <div className="navbar-title">
-          <div className="capstone-title">CAPSTONE PROJECT GROUP 2</div>
-          <h2>KNUST Symptom Checker AI Project</h2>
+          <div className="capstone-title">Symptom Checker AI Project</div>
+          <h2>Project created by: Welthing Asomani Sekyere</h2>
         </div>
       </div>
     </div>
