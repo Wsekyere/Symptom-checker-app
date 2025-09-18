@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/danbubu/ai_symptom_checker/static/css/main.2bedf223.chunk.css",
-    "main.js": "/danbubu/ai_symptom_checker/static/js/main.43dff819.chunk.js",
-    "main.js.map": "/danbubu/ai_symptom_checker/static/js/main.43dff819.chunk.js.map",
-    "runtime-main.js": "/danbubu/ai_symptom_checker/static/js/runtime-main.db694d42.js",
-    "runtime-main.js.map": "/danbubu/ai_symptom_checker/static/js/runtime-main.db694d42.js.map",
-    "static/js/2.5bf6222d.chunk.js": "/danbubu/ai_symptom_checker/static/js/2.5bf6222d.chunk.js",
-    "static/js/2.5bf6222d.chunk.js.map": "/danbubu/ai_symptom_checker/static/js/2.5bf6222d.chunk.js.map",
-    "index.html": "/danbubu/ai_symptom_checker/index.html",
-    "precache-manifest.677e9b2aca7f9b801d4eb8d06a2ad38d.js": "/danbubu/ai_symptom_checker/precache-manifest.677e9b2aca7f9b801d4eb8d06a2ad38d.js",
-    "service-worker.js": "/danbubu/ai_symptom_checker/service-worker.js",
-    "static/css/main.2bedf223.chunk.css.map": "/danbubu/ai_symptom_checker/static/css/main.2bedf223.chunk.css.map",
-    "static/js/2.5bf6222d.chunk.js.LICENSE.txt": "/danbubu/ai_symptom_checker/static/js/2.5bf6222d.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/danbubu/ai_symptom_checker/static/media/logo.7c583c79.svg"
+    "main.css": "/ai_symptom_checker/static/css/main.0c284711.chunk.css",
+    "main.js": "/ai_symptom_checker/static/js/main.a5dfe1dc.chunk.js",
+    "main.js.map": "/ai_symptom_checker/static/js/main.a5dfe1dc.chunk.js.map",
+    "runtime-main.js": "/ai_symptom_checker/static/js/runtime-main.f6d255c2.js",
+    "runtime-main.js.map": "/ai_symptom_checker/static/js/runtime-main.f6d255c2.js.map",
+    "static/js/2.5bf6222d.chunk.js": "/ai_symptom_checker/static/js/2.5bf6222d.chunk.js",
+    "static/js/2.5bf6222d.chunk.js.map": "/ai_symptom_checker/static/js/2.5bf6222d.chunk.js.map",
+    "index.html": "/ai_symptom_checker/index.html",
+    "precache-manifest.886fae89e895de352006ac47ed9cb84b.js": "/ai_symptom_checker/precache-manifest.886fae89e895de352006ac47ed9cb84b.js",
+    "service-worker.js": "/ai_symptom_checker/service-worker.js",
+    "static/css/main.0c284711.chunk.css.map": "/ai_symptom_checker/static/css/main.0c284711.chunk.css.map",
+    "static/js/2.5bf6222d.chunk.js.LICENSE.txt": "/ai_symptom_checker/static/js/2.5bf6222d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ai_symptom_checker/static/media/logo.7c583c79.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.db694d42.js",
+    "static/js/runtime-main.f6d255c2.js",
     "static/js/2.5bf6222d.chunk.js",
-    "static/css/main.2bedf223.chunk.css",
-    "static/js/main.43dff819.chunk.js"
+    "static/css/main.0c284711.chunk.css",
+    "static/js/main.a5dfe1dc.chunk.js"
   ]
 }
